@@ -1,0 +1,49 @@
+# Python Artifacts
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment & Secrets
+.env
+.env.*
+
+# Logs & Debug
+*.log
+logs/
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.swp
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Cache & Type Checking
+.cache/
+.mypy_cache/
+.pytype/
+.pyre/
+
+# Databases & Temp Files
+*.db
+*.sqlite3
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Project Specific (Optional)
+uploads/
